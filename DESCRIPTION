@@ -1,0 +1,13 @@
+Package: gsvdData
+Version: 0.0.1
+Title: Example data for gsvd
+Description: Example data for gsvd.
+Authors@R: c(person(c("Kasper", "Daniel"), "Hansen", role = c("cre", "aut"),
+                    email = "kasperdanielhansen@gmail.com"),
+             person("Jean-Philippe", "Fortin", role = "aut"),
+	     person("Leslie", "Myint", role = "aut"),
+	     person("Kipper", "Fletez-Brant", role = "aut"))
+Depends:  GenomicFiles
+License: Artistic-2.0
+URL: https://github.com/hansenlab/gsvdData
+LazyData: yes
