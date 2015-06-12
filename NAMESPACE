@@ -1,2 +1,3 @@
 import(GenomicFiles)
+import(GenomicRanges)
 exportPattern("^[^\\.]")
